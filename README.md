@@ -1,3 +1,3 @@
 # ServerlessDataProcessing Assignments
 
-This project contains java projects for Assignment Part B and Part C
+This project contains Assignments for Serverless Data Processing.
