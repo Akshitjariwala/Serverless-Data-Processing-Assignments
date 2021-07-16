@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="twitterAnalysis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/twitterAnalysis.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
