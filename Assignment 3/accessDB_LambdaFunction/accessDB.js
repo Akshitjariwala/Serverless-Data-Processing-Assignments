@@ -3,10 +3,10 @@ const mysql = require('mysql');
 const aws = require('aws-sdk');
 
 var conn = mysql.createConnection({
-    host     : 'lambdafunction.cmbmize6ljqo.us-east-1.rds.amazonaws.com',
+    host     : 'project-5410.cmbmize6ljqo.us-east-1.rds.amazonaws.com',
     user     : 'admin',
-    password : 'mydatabase',
-    database : 'lambdafunction'
+    password : 'serverless',
+    database : 'halifaxfoodie'
 });
 
 const s3 = new aws.S3({ apiVersion: '2006-03-01' });
